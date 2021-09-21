@@ -7,3 +7,8 @@ The agemt utilizes Reinforcement learning in a simple linear Q Neural network wi
 ## Observations - 
 
 As we observe after playing 100+ games,model finally learns to play the game with good results.
+
+
+## Ongoing work - 
+- Improving the current model by fine tuning the neural network
+- Implimant similar work in Black jack game.
