@@ -3,7 +3,7 @@ Inspired from the awesome tutorial on YouTube https://www.youtube.com/watch?v=5V
 
 
 The agemt utilizes Reinforcement learning in a simple linear Q Neural network with only forward propagation to predict agent's move.
-
+The trained model is modelpkh file.
 ## Observations - 
 
 ![ai2](https://user-images.githubusercontent.com/43739144/134230726-454218b1-fc65-4be4-ba07-2c1ce0a253ac.PNG)
